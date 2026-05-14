@@ -1,0 +1,1 @@
+This is my note taking app that can be used to capture notes and save them for future use
